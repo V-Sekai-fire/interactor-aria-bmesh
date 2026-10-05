@@ -12,7 +12,11 @@ A face may have any number of sides and an edge may border any number of faces, 
 mix compile
 ```
 
-Another Mix project uses it as a git dependency on this repository.
+Another Mix project depends on it from git:
+
+```elixir
+{:aria_bmesh, git: "https://github.com/V-Sekai-fire/interactor-aria-bmesh.git"}
+```
 
 ## Licence
 
