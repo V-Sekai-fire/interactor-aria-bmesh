@@ -20,4 +20,4 @@ Another Mix project depends on it from git:
 
 ## Licence
 
-MIT, as the SPDX headers and `mix.exs` state. There is no licence file.
+MIT. See [LICENSE](LICENSE).
